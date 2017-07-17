@@ -12,3 +12,13 @@ How is the staging area different from the working directory and the repository?
    
      It allows a place holder for the files to be committed to the repo. Without it, all the files in the working
 	directory will need to be committed to the repo.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+     Can add only certain files belonging to the same single logical change to staging area.
+     Can compare the files in staging area and working directory, and the files in staging area and the most currect
+	branch, and make sure that they folllow the same logical change before committing.
+     
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+     When there is a need for alternate universe. Branching can keep track of these alternate universe.
