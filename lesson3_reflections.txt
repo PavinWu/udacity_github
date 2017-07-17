@@ -9,3 +9,14 @@ to-date with your remote repository?
   - There may be conflicts between changes
   - There could be many people working on the same project. Hence, changes can also be quick. 
 	And this means we/Git need to constantly edit our code to match with the updates.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of
+another?
+
+  - Forks: clone directly within Github
+  - Clones: copy all of the commits of one repository into another
+  - Branches: creating an alternative version of a file
+  
+  Use Clones when involve local repository. Use forks if want to clone directly on Github.
+  Branch when want to create an alternative version, and not want to affect the files in the tip
+	(before branching) for whatever reasons.
