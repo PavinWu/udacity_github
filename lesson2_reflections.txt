@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    -Make the directory behaves as a "local" repository. Though, it is not uploaded to github yet (i.e. not committed)
+	-Do this initialization so the git knows the scope of the repository, rather than just some random files.
+	-Arguably, if git auto committed, the parent folder used may be the directory for repository. But that's
+	-probably too sudden a change
+     To initialize a directory for repository in the git server. Otherwise, we wouldn't know where to put the files.
+     Also, with the staging area, initialization without commit allows us to select specific files to commit, rather
+	than every file in the working directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+   
+     It allows a place holder for the files to be committed to the repo. Without it, all the files in the working
+	directory will need to be committed to the repo.
