@@ -22,3 +22,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
      When there is a need for alternate universe. Branching can keep track of these alternate universe.
+
+How do the diagrams help you visualize the branch structure?
+
+     Pictorial representation is much easier to interpret than a stream of texts
