@@ -20,3 +20,8 @@ another?
   Use Clones when involve local repository. Use forks if want to clone directly on Github.
   Branch when want to create an alternative version, and not want to affect the files in the tip
 	(before branching) for whatever reasons.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  So we can mimic the behviour of remote branch locally without actually making change to the 
+	remote branch.
